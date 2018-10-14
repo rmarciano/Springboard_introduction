@@ -5,7 +5,7 @@
 
 ### 1.1 Demystifying data science
 
-For a fairly good overview of data science methods, read through [this blog post](http://www.thearling.com/text/dmtechniques/dmtechniques.htm). It provides a good overview of the many methods used in data science. It’s not a complete list, though; “data science” is a pretty broad umbrella.
+For a fairly good overview of data science methods, read through [this blog post](http://www.thearling.com/text/dmtechniques/dmtechniques.htm). (This page can no longer be found) It provides a good overview of the many methods used in data science. It’s not a complete list, though; “data science” is a pretty broad umbrella.
 
 What's a day in the life of a data scientist like? KDNuggets [has you covered](https://www.kdnuggets.com/2017/11/day-life-data-scientist.html), and Springboard [steps through the data science process](https://medium.springboard.com/the-data-science-process-the-complete-laymans-guide-to-what-a-data-scientist-actually-does-ca3e166b7c67).
 
